@@ -1,0 +1,30 @@
+R_DEF: Internal format may change without notice
+local
+color colorAccent
+color colorDark
+color colorPrimary
+color colorPrimaryDark
+color colorRating
+drawable ic_baseline_looks_3_24
+drawable ic_baseline_looks_one_24
+drawable ic_baseline_looks_two_24
+drawable ic_launcher_background
+drawable ic_launcher_foreground
+id designation
+id email
+id json
+id json_api
+id location
+id mobile
+id moviedb
+id name
+id user_list
+layout activity_main
+layout json_api
+layout json_parse
+layout list_item
+layout list_row
+mipmap ic_launcher
+mipmap ic_launcher_round
+string app_name
+style Theme.JsonMovieDB
